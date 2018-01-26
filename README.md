@@ -8,6 +8,6 @@ The trace sets were obtained from an 8-bit AVR microcontroller. The details on t
 
 ## Trace sets
 
-`ctraces_fm16x4_2.mat` - AES-128 with random delays generated using the Floating mean method. Encryption key: `2b7e151628aed2a6abf7158809cf4f3c`.
+`ctraces_fm16x4_2.mat` - AES-128 with random delays generated using the Floating mean method. Encryption key: `2b7e151628aed2a6abf7158809cf4f3c`. These power traces are compressed by selecting 1 sample (peak) of each CPU clock cycle.
 
 To get the traces by cloning the repo you need [Git LFS](https://git-lfs.github.com). Alternatively, you can download the traces directly from GitHub web interface.

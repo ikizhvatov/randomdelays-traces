@@ -1,0 +1,2 @@
+@ECHO OFF
+"C:\Program Files\Atmel\AVR Tools\AvrAssembler2\avrasm2.exe" -S "P:\projects\randomdelays\implementation\labels.tmp" -fI -W+ie -C V2E -o "P:\projects\randomdelays\implementation\randomdelays.hex" -d "P:\projects\randomdelays\implementation\randomdelays.obj" -e "P:\projects\randomdelays\implementation\randomdelays.eep" -m "P:\projects\randomdelays\implementation\randomdelays.map" "P:\projects\randomdelays\implementation\randomdelays.asm"

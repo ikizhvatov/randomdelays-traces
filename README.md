@@ -1,8 +1,10 @@
 # Trace sets with random delays
 
-This repository contains tracesets and code from the following paper:
+This repository contains tracesets and code from the following papers.
 
-[Jean-Sébastien Coron and Ilya Kizhvatov. An Efficient Method for Random Delay Generation in Embedded Software. CHES 2009](https://www.iacr.org/archive/ches2009/57470156/57470156.pdf)
+* [Jean-Sébastien Coron and Ilya Kizhvatov. An Efficient Method for Random Delay Generation in Embedded Software. CHES 2009](https://www.iacr.org/archive/ches2009/57470156/57470156.pdf)
+
+* [Jean-Sébastien Coron and Ilya Kizhvatov. Analysis and Improvement of the Random Delay Countermeasure of CHES 2009. CHES 2010](https://www.iacr.org/archive/ches2010/62250090/62250090.pdf)
 
 The trace sets were obtained from an 8-bit AVR microcontroller. The details on the measurement setup and the implementation are in the paper and in Sections 2.6.1 and 6.9 of [the thesis](https://www.iacr.org/phds/106_IlyaKizhvatov_PhysicalSecurityCryptographicA.pdf).
 
